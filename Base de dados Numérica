@@ -1,0 +1,72 @@
+1. ANÁLISE DESCRITIVA
+
+1.1 Fonte de Dados
+  
+  A base de dados descreve Produto Interno Bruto dos Municípios das Capitais, por posição em relação às Capitais, 
+  à Unidade da Federação e ao Brasil, segundo os Municípios das Capitais, e as respectivas Unidades da Federação, 
+  em ordem de posição - 2015. A base foi obtida através do site do IBGE.
+  Link para acesso: https://agenciadenoticias.ibge.gov.br/agencia-sala-de-imprensa/2013-agencia-de-noticias/releases/18785-pib-dos-municipios-2015-capitais-perdem-participacao-no-pib-do-pais
+  
+  1.2) Características gerais da base
+
+Número de registros: 27
+Número de variáveis: 3
+------------------------------------------
+Dicionário de dados
+Quantidade de valores ausentes por variável
+1.3) Análise Descritiva
+
+Para cada variável da base
+
+Domínio: [menor valor, maior valor] ou [valores possíveis]
+Medidas de tendência central: média, mediana, moda (dados categóricos)
+Medidas de dispersão: desvio padrão
+  
+  PIB - Valor	
+	
+Média	73551105,56
+Erro padrão	25796456,13
+Mediana	24257415
+Modo	#N/D
+Desvio padrão	134042318
+Variância da amostra	1,79673E+16
+Curtose	13,90602389
+Assimetria	3,572255413
+Intervalo	643144353
+Mínimo	7400436
+Máximo	650544789
+Soma	1985879850
+Contagem	27
+Maior(2)	320774459
+Menor(2)	7559301
+Nível de confiança(95,0%)	53025374,99
+
+
+Municipio	Colocação
+São Paulo/SP	1º
+Rio de Janeiro/RJ	2º
+Brasília/DF	3º
+Belo Horizonte/MG	4º
+Curitiba/PR	5º
+Porto Alegre/RS	6º
+Manaus/AM	7º
+Salvador/BA	8º
+Fortaleza/CE	9º
+Recife/PE	10º
+Goiânia/GO	11º
+Belém/PA	12º
+São Luís/MA	13º
+Campo Grande/MS	14º
+Vitória/ES	15º
+Cuiabá/MT	16º
+Natal/RN	17º
+Maceió/AL	18º
+Florianópolis/SC	19º
+João Pessoa/PB	20º
+Teresina/PI	21º
+Aracaju/SE	22º
+Porto Velho/RO	23º
+Macapá/AP	24º
+Rio Branco/AC	25º
+Boa Vista/RR	26º
+Palmas/TO	27º
